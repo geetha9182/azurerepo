@@ -36,7 +36,8 @@
 					"name": "window1"
 				},
 				{
-					"name": "aggregate1"
+					"name": "aggregate1",
+					"description": "Aggregating data by 'PrimaryGenre, year' producing columns 'AverageRating, HighestRead, LowestRead,NumberOfMovies'"
 				},
 				{
 					"name": "alterRow1"
