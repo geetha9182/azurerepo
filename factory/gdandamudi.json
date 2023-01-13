@@ -1,0 +1,9 @@
+{
+	"name": "gdandamudi",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4d560b6a-1776-4a5e-9aa3-2b7c3b7c02b4",
+		"tenantId": "e23ba67d-4ef0-436f-9e4e-76d6377d6157"
+	}
+}
